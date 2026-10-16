@@ -1,0 +1,17 @@
+ammusclev8_upshift_2.wav
+ammusclev8_downshift_1.wav
+exhaust_resonation_3.wav
+ammusclev8_onidle.wav
+ammusclev8_offverylow.wav
+ammusclev8_upshift_1.wav
+ammusclev8_startup.wav
+ammusclev8_idle.wav
+ammusclev8_offmid.wav
+ammusclev8_offlow.wav
+ammusclev8_onhigh.wav
+ammusclev8_limiter.wav
+ammusclev8_downshift_2.wav
+ammusclev8_offhigh.wav
+ammusclev8_onverylow.wav
+ammusclev8_onlow.wav
+ammusclev8_onmid.wav
